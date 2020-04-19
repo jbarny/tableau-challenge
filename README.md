@@ -1,8 +1,8 @@
 # CitiBike Analysis Findings & Conclusions
 
-[CitiBike Analysis Tableau Story](https://public.tableau.com/profile/jen.barny6168#!/vizhome/citibike_15872623997270/CitiBikeApril-October2019)
-
 ![CitiBike-Logo](CitiBike_Logo_p.svg)
+
+[CitiBike Analysis Tableau Story](https://public.tableau.com/profile/jen.barny6168#!/vizhome/citibike_15872623997270/CitiBikeApril-October2019)
 
 Data Source: April 2019 - October 2019 datasets from [Citi Bike Data](https://www.citibikenyc.com/system-data).
 
